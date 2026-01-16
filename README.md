@@ -1,3 +1,7 @@
+![Platform](https://img.shields.io/badge/Platform-KaliLinux-blue)
+![Tool](https://img.shields.io/badge/Tool-Nmap-orange)
+![Focus](https://img.shields.io/badge/Focus-Network_Scanning-red)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 # 🛰️ Learning Nmap – Network Scanning & Mapping Lab
 
